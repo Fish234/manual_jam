@@ -1,4 +1,4 @@
-# Actividad Presencial I
+
 ## Autenticación Manual desde cero
 
 
